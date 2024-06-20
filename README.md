@@ -1,6 +1,6 @@
 # Grandbot + Norns
 
-Script for controlling Grandbot from Norns via MIDI CC.
+Script for controlling [Grandbot](https://github.com/handeyeco/Grandbot) from Norns via MIDI CC.
 
 ## Controls
 
